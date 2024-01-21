@@ -54,4 +54,4 @@ To run the Travel Bucket RESTful API, make sure you have Docker installed on you
 
 Abdulkareem Abunabhan
 
-If you have any questions or feedback regarding the project, you can contact me at zman17881@gmail.com
+If you have any questions or feedback regarding the project, you can contact me at abdulkareemabunabhan@gmail.com
